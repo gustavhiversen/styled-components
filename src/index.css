@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.kort-footer {
+  height: 100%;
+  background-size: cover;
+  margin-top: 60px;
+  background-repeat: no-repeat;
+}
+
+.wrapper-link-container {
+  display: flex;
+  justify-content: space-around;
+}
